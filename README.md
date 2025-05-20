@@ -71,15 +71,25 @@ Edit
 📦library-management-sql/
 
  ┣ 📄 README.md
+ 
  ┣ 📁 data/
+ 
  ┃ ┣ 📄 books.csv
+ 
  ┃ ┣ 📄 branches.csv
+ 
  ┃ ┣ 📄 employees.csv
+ 
  ┃ ┣ 📄 members.csv
+ 
  ┃ ┣ 📄 issued_status.csv
+ 
  ┃ ┗ 📄 return.csv
+ 
  ┗ 📁 queries/
+ 
    ┣ 📄 basic_queries.sql
+   
    ┗ 📄 advanced_queries.sql
    
 📌 **Future Improvements**
